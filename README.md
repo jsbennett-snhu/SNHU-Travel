@@ -3,7 +3,7 @@ A repository for my work in CS-250
 
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-You interpret user needs and implement them into programs by understanding what value the need brings to the user. What outcome does the user expect from any given feature. Applying user stories a Product Owner can assist development by formatting feature request in a way that clearly defines the value that any given feature brings to the user or shareholders.
+  You interpret user needs and implement them into programs by understanding what value the need brings to the user. What outcome does the user expect from any given feature. Applying user stories a Product Owner can assist development by formatting feature request in a way that clearly defines the value that any given feature brings to the user or shareholders.
 
 - How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
